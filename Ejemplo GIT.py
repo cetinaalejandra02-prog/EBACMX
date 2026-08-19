@@ -1,9 +1,13 @@
 # Prueba de  Python
-# Se añade la variable c 
+# Se añade la variable c
+# Nueva variable E
 a = 10
 b = 30
+e = 1.1
 c = 30*10*5
 print('resultado=', c)
 
-d = c * 100
+## Cambio a factor 200 por Directorio
+
+d = c * 200
 print('resultado total=', d)
