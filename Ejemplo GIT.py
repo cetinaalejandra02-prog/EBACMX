@@ -13,3 +13,5 @@ d = c * 200
 print('resultado total=', d)
 
 ## Ajuste para ver como funciona
+
+## Nuevo agregado para verificar ajustes realizados
