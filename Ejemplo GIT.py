@@ -18,3 +18,5 @@ print('resultado total=', d)
 ## Ajuste para ver como funciona
 
 ## Nuevo agregado para verificar ajustes realizados
+
+## Cambio para actividad del módulo 34
